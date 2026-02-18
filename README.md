@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/IamAshishSingh02?label=Followers&style=for-the-badge&color=blue)](https://github.com/IamAshishSingh02)
 [![GitHub Stars](https://img.shields.io/github/stars/IamAshishSingh02?label=Stars&style=for-the-badge&color=yellow)](https://github.com/IamAshishSingh02)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F72AF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F72AF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -32,7 +32,7 @@ const ashish = {
 
 ##  Tech Stack
 
-<div align="center">
+<div>
 
 ###  Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -96,27 +96,14 @@ const ashish = {
   <a href="https://instagram.com/imsongoku_02">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/IamAshishSingh02">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
 
 <div align="center">
-
-###  Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-###  Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-
+    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
-**❤️ Thanks for visiting my profile! Happy Coding! **
-
-<img src="https://visitcount.itsvg.in/api?id=IamAshishSingh02&icon=5&color=6" alt="Visit Count" />
+**❤️ Thanks for visiting my profile! Happy Coding!**
 
 </div>
