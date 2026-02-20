@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ASHISH%20KUMAR&fontSize=40&fontAlignY=35&animation=fadeIn" 
+  width="100%" 
+/>
 
 <div align="center">
-
-#  ASHISH SINGH
 
 ### Backend Developer | Tech Enthusiast | Problem Solver
 
