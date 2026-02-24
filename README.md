@@ -25,7 +25,7 @@ I'm a passionate **Backend Developer** with a deep interest in building scalable
 const ashish = {
     location: "India 🇮🇳",
     role: "Backend Developer",
-    contact: "psssasds212004@gmail.com"
+    contact: "psssasds212004@gmail.com",
     interests: ["System Design", "APIs", "Database Architecture", "DevOps"],
     languages: ["JavaScript", "TypeScript", "C++"],
 };
@@ -44,6 +44,8 @@ const ashish = {
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="25"/>
@@ -58,6 +60,9 @@ const ashish = {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/ImageKit-00A8E8?style=flat&logo=imagekit&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25"/>
 </p>
