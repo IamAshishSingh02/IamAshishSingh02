@@ -52,17 +52,17 @@ const ashish = {
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" height="25"/>
   <!--<img src="https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white" height="25"/>-->
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turbo&logoColor=white" height="25"/>
-  <!--<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="25"/>
-  <!--<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" height="25"/>
-  <!--<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" height="25"/>
-  <!--<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" height="25"/>-->
+  <!-- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="25"/> -->
+  <!-- <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" height="25"/> -->
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" height="25"/>
+  <!--<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" height="25"/> -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25"/>
-  <!--<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="25"/>
+  <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="25"/> -->
   <img src="https://img.shields.io/badge/ImageKit-00A8E8?style=flat&logo=imagekit&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" height="25"/>-->
+  <!-- <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" height="25"/> -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25"/>
 </p>
